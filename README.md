@@ -78,7 +78,7 @@ This course is not based on any particular textbook. However, the course materia
 ## Grading  
 
 |Component|Scores| 
-|:---|:-----|
+|:---|:-----:|
 |**Attendance**| 10 | 
 |**Assignments**| 15 |
 |**Project **   | 25 |
