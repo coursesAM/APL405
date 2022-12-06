@@ -25,12 +25,12 @@
 
 ## Course Content
 This is an introductory course to statistical machine learning for students with some background in calculus, linear algebra and statistics. The course is focusing on supervised learning, i.e, classification and regression. The course will cover a range of methods used in machine learning and data science, including:
-\item Linear regression
-\item Classification via logistic regression and k nearest neighbour
-\item Linear and quadratic discriminant analysis
-\item Regression and classification trees
-\item Bagging and boosting
-\item Neural networks and deep learning
+-- Linear regression
+-- Classification via logistic regression and k nearest neighbour
+-- Linear and quadratic discriminant analysis
+-- Regression and classification trees
+-- Bagging and boosting
+-- Neural networks and deep learning
 
 These methods will be studied from various applications throughout the course. The course also covers important practical considerations such as cross-validation, model selection and the bias-variance trade-off. The course includes theory (e.g., derivations and proofs) as well as practice (notably the lab and the course project). The practical part will be implemented using Python.
 
