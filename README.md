@@ -16,8 +16,6 @@
 
 **Practical Session:** Fri (3:15 to 5:00 PM) at LHC 606 <br> <br>
 
-List of students in particular practical sessions can be accessed here: [Tutorial group list](https://docs.google.com/spreadsheets/d/1wjXqcVkSQeNQUneFRY9tIM5wFS53DPpB/edit?usp=sharing&ouid=117052463269187528720&rtpof=true&sd=true) <br><br>
-
 **Office hours (TA)**: By email appointment <br> 
 **Office hours (Instructor)**: **Prof. Rajdip Nayek** (Thu 5-6pm) **Office** Block V-418D <br><br>
 
@@ -109,13 +107,14 @@ This course is not based on any particular textbook. However, the course materia
 |Component|Scores| Solutions | 
 |:---|:-----|:------ |
 |**Attendance**| 10 | |
-|**Quiz #1**| 10 | [Solution](Exam/Quiz1.pdf)|
-|**Minor**| 30 | [Solution](Exam/Minor_Solution.pdf) |
-|**Quiz #2**| 10 | [Solution](Exam/Quiz2.pdf) |
-|**Major**| 40 | [Solution](Exam/Major.pdf) |
+|**Assignments**| 15 | |
+|**Project #2**| 25 | |
+|**Minor #1**  | 10 | |
+|**Minor #2**  | 10 | |
+|**Major**     | 30 | |
 |**Total** |100| |
 
 ## Course Attendance
-Students are highly encouraged to attend all classes. They have to attend the classes and tutorials to receive 10 point attendance scores. Class attendance will be taken **via Timble**. Please mark yourself in and out for each class. In case of unavoidable absence, such as illness, please send an appropriate email **within a week after absence** with email subject specifying the subject code APL 104. <br>
+Students are highly encouraged to attend all classes. They have to attend the classes and practicals to receive 10 point attendance scores. Class attendance will be taken **via Timble**. Attendance in practicals will be taken by TAs. Please mark yourself **IN and OUT** for each class. In case of unavoidable absence, such as illness, please send an appropriate email **within a week before/after absence** with email subject specifying the subject code APL 405. <br>
 
-**A minimum of 80% attendance is required for passing the course.**
+**A minimum of 75% attendance is required for passing the course.**
