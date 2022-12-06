@@ -81,7 +81,7 @@ This course is not based on any particular textbook. However, the course materia
 |:---|:-----:|
 |**Attendance**| 10 | 
 |**Assignments**| 15 |
-|**Project **   | 25 |
+|**Project**   | 25 |
 |**Minor #1**  | 10 | 
 |**Minor #2**  | 10 | 
 |**Major**     | 30 | 
