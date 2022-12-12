@@ -41,11 +41,35 @@ These methods will be studied from various applications throughout the course. T
 * Decision Trees (Lecture 3)
 * Linear Regression and Logistic regression (Lecture 4)
 * Polynomial regression
+* SVR and SVM
 * Bias-Variance decomposition
 * Building blocks of a ML algorithm
-  * er 
-  * ere 
--   
+  * Principles of Parametric modelling
+  * Loss function vs likelihood based models
+  * Regularization
+  * Parameter optimization
+  * Hyperparameter optimization
+  * Practical aspects
+    * One-hot encoding
+    * Binning
+    * Input normalization
+    * Three sets: Train, test, validation
+    * Model performance assessment: 
+      * Confusion matrix
+      * Precision
+      * Accuracy
+* Bayesian Approach and Gausian Process (3-4 lectures)
+* Neural Networks (4 lectures) [100 page ML book]
+  * FNN
+  * Training a neural network using back propagation
+  * CNN 
+* Ensemble algorithms
+  * Bagging
+  * Boosting
+  * Random Forest
+* Representation Learning and Dimensionality reduction
+  * Autoencoders
+  * PCA
 
 ## Lecture Schedule
 
