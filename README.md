@@ -58,7 +58,7 @@ These methods will be studied from various applications throughout the course. T
       * Confusion matrix
       * Precision
       * Accuracy
-* Bayesian Approach and Gausian Process (3-4 lectures)
+* Bayesian Approach and Gaussian Process (3-4 lectures)
 * Neural Networks (4 lectures) [100 page ML book]
   * FNN
   * Training a neural network using back propagation
