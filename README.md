@@ -35,6 +35,13 @@ This is an introductory course to statistical machine learning for students with
 These methods will be studied from various applications throughout the course. The course also covers important practical considerations such as cross-validation, model selection and the bias-variance trade-off. The course includes theory (e.g., derivations and proofs) as well as practice (notably the lab and the course project). The practical part will be implemented using Python.
 
 ## Course Structure
+* Introduction (Lecture 1)
+* Supervised Learning (Lecture 2)
+* k-NN (Lecture 3)
+* Decision Trees (Lecture 3)
+* Linear Regression and Logistic regression (Lecture 4)
+* Polynomial regression
+* Bias-Variance decomposition
 
 ## Lecture Schedule
 
