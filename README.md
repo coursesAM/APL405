@@ -43,6 +43,8 @@ These methods will be studied from various applications throughout the course. T
 * Polynomial regression
 * Bias-Variance decomposition
 * Building blocks of a ML algorithm
+  * er 
+  * ere 
 -   
 
 ## Lecture Schedule
