@@ -117,7 +117,7 @@ This course is not based on any particular textbook. However, the course materia
 |**Attendance** | 10 | 
 |**Assignments**| 15 |
 |**Project**    | 30 |
-|**Minor #1**   | 10 | 
+|**Minor #1**  (10L) | 10 | 
 |**Minor #2**   | 10 | 
 |**Major**      | 25 | 
 |**Total**      | 100| 
