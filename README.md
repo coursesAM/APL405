@@ -42,6 +42,8 @@ These methods will be studied from various applications throughout the course. T
 * Linear Regression and Logistic regression (Lecture 4)
 * Polynomial regression
 * Bias-Variance decomposition
+* Building blocks of a ML algorithm
+-   
 
 ## Lecture Schedule
 
