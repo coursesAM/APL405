@@ -82,7 +82,7 @@ These methods will be studied from various applications throughout the course. T
 
 |Topics| Practical Questions| 
 |:---------:|:--------:|
-| Mathematical Preliminaries | [Tutorial 1](Tutorial/Tutorial_1.pdf) | 
+| Probability refresher | [Practical 1](Practical/Practical_1.pdf) | 
 
 
 ## Table of Contents
@@ -104,10 +104,10 @@ This is the first course where deformation of solid bodies and the underlying co
 
 ## Course References
 This course is not based on any particular textbook. However, the course materials have been prepared using the following four references:
-* Solid Mechanics (NPTEL) by Prof. Ajeet Kumar [[video link](https://www.youtube.com/playlist?list=PLp6ek2hDcoNALS0KiBAUiCwrTrvil2vL3)]
-* Srinath, L.S., *"Advanced Solid Mechanics"*, Elsevier, 2018.
-* Timoshenko, S.P. and Goodier, J.N., *"Theory of Elasticity"*, McGraw Hill, 2017.
-* Sadd, M.H., *"Elasticity: Theory, Applications and Numerics"*, Elsevier, 2005
+* Mathematics for Machine Learning [[free pdf](https://mml-book.github.io/book/mml-book.pdf)]
+* Christopher Bishop, *"Pattern Recognition and Machine Learning"*, Springer, 2006.
+* Andriy Burkov, *"The Hundred Page Machine Learning Book"*, 2019 [[free pdf](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)].
+*  Andreas Lindholm et. al., *"Machine Learning: A First Course for Engineers and Scientists"*, Cambridge University Press, 2022 [[free pdf](http://smlbook.org/book/sml-book-draft-latest.pdf)]
 
 
 ## Grading  
