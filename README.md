@@ -85,6 +85,8 @@ These methods will be studied from various applications throughout the course. T
 |Topics| Practical Questions| 
 |:---------:|:--------:|
 | Probability refresher | [Practical 1](Practical/Practical_1.pdf) | 
+| k Nearest Neighbours  | [Practical 2](Practical/Practical_2.pdf) | 
+
 
 
 
