@@ -73,9 +73,11 @@ These methods will be studied from various applications throughout the course. T
 
 ## Lecture Schedule
 
-|Module|Topics|Lecture Notes| 
-|:----------|:-----------:|:-------------:|
-|**Module 00**| Mathematical Preliminaries | [Lecture 1] |
+|Lecture#|Topics|Lecture Notes| Additional reading | 
+|:----------|:-----------:|:-------------:|:------------------:|
+|Lecture 1| Introduction | [Lecture 1] | |
+|Lecture 3| k Nearest Neigbours| [Lecture 3] | [distance metrics](https://cedar.buffalo.edu/~srihari/CSE555/Chap4.Metrics-TangentDistance.pdf)|
+
 
 
 ## Practical Schedule
@@ -83,6 +85,7 @@ These methods will be studied from various applications throughout the course. T
 |Topics| Practical Questions| 
 |:---------:|:--------:|
 | Probability refresher | [Practical 1](Practical/Practical_1.pdf) | 
+
 
 
 ## Table of Contents
