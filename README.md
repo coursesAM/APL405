@@ -35,11 +35,11 @@ This is an introductory course to statistical machine learning for students with
 These methods will be studied from various applications throughout the course. The course also covers important practical considerations such as cross-validation, model selection and the bias-variance trade-off. The course includes theory (e.g., derivations and proofs) as well as practice (notably the lab and the course project). The practical part will be implemented using Python.
 
 ## Course Structure
-* Introduction (Lecture 1)
-* Supervised Learning (Lecture 2)
-* k-NN (Lecture 3)
-* Decision Trees (Lecture 3)
-* Linear Regression and Logistic regression (Lecture 4)
+* Introduction 
+* Supervised Learning 
+* k-NN 
+* Decision Trees 
+* Linear Regression and Logistic regression 
 * Polynomial regression
 * SVR and SVM
 * Bias-Variance decomposition
@@ -76,16 +76,17 @@ These methods will be studied from various applications throughout the course. T
 |Lecture#|Topics|Lecture Notes| Additional reading | 
 |:----------|:-----------:|:-------------:|:------------------:|
 |Lecture 1| Introduction | [Lecture 1] | |
-|Lecture 3| k Nearest Neigbours| [Lecture 3] | [distance metrics](https://cedar.buffalo.edu/~srihari/CSE555/Chap4.Metrics-TangentDistance.pdf)|
+|Lecture 2| Supervised Learning | [Lecture 2] | |
+|Lecture 3| k-Nearest Neigbours| [Lecture 3] | [distance metrics](https://cedar.buffalo.edu/~srihari/CSE555/Chap4.Metrics-TangentDistance.pdf)|
 
 
 
 ## Practical Schedule
 
-|Topics| Practical Questions| 
-|:---------:|:--------:|
-| Probability refresher | [Practical 1](Practical/Practical_1.pdf) | 
-| k Nearest Neighbours  | [Practical 2](Practical/Practical_2.pdf) | 
+|Week# | Topics| Practical Questions| 
+|:------:|:---------:|:--------:|
+| Week 1 | Probability refresher | [Practical 1](Practical/Practical_1.pdf) | 
+| Week 2 | k-Nearest Neighbours  | [Practical 2](Practical/Practical_2.pdf) | 
 
 
 
