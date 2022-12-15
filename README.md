@@ -73,11 +73,14 @@ These methods will be studied from various applications throughout the course. T
 
 ## Lecture Schedule
 
-|Lecture#|Topics|Lecture Notes| Additional reading | 
-|:----------|:-----------:|:-------------:|:------------------:|
-|Lecture 1| Introduction | [Lecture 1] | |
-|Lecture 2| Supervised Learning | [Lecture 2] | |
-|Lecture 3| k-Nearest Neigbours| [Lecture 3] | [distance metrics](https://cedar.buffalo.edu/~srihari/CSE555/Chap4.Metrics-TangentDistance.pdf)|
+|Module#| Main Topic | Sub Topics|Lecture Notes| 
+|:----------:|:----------------------------: |:------------------:|:-------------:|
+|Module 00:| Introduction | | [Lecture 1]  |
+|Module 01| A preliminary approach <br> to Supervised Learning| Background <br> k-Nearest Neigbours <br> Decision Trees | [Lecture 2] <br> [Lecture 3] <br> [Lecture 4]| 
+
+
+
+
 
 
 
