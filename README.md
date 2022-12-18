@@ -125,8 +125,7 @@ This course is not based on any particular textbook. However, the course materia
 
 |Component|Scores| 
 |:---|:-----:|
-|**Attendance** | 10 | 
-|**Practicals** | 15 |
+|**Practicals** | 20 |
 |**Project**    | 30 |
 |**Minor #1**   | 10 | 
 |**Minor #2**   | 10 | 
@@ -136,4 +135,4 @@ This course is not based on any particular textbook. However, the course materia
 ## Course Attendance
 Students are highly encouraged to attend all classes. They have to attend the classes and practicals to receive 10 point attendance scores. Class attendance will be taken **via Timble**. Attendance in practicals will be taken by TAs. Please mark yourself **IN and OUT** for each class. In case of unavoidable absence, such as illness, please send an appropriate email **within a week before/after absence** with email subject specifying the subject code APL 405. <br>
 
-**A minimum of 75% attendance is required for passing the course.**
+**If lecture attendance is below 75%, one grade would be lowered.**
