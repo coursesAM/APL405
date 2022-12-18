@@ -62,14 +62,16 @@ These methods will be studied from various applications throughout the course. T
 * Neural Networks (4 lectures) [100 page ML book]
   * FNN
   * Training a neural network using back propagation
-  * CNN 
 * Ensemble algorithms
   * Bagging
   * Boosting
   * Random Forest
 * Representation Learning and Dimensionality reduction
-  * Autoencoders
   * PCA
+  * kernel PCA
+  * ICA
+  * k-means clustering
+  * EM algorithm
 
 ## Lecture Schedule
 
@@ -129,7 +131,7 @@ This course is not based on any particular textbook. However, the course materia
 |**Project**    | 30 |
 |**Minor #1**   | 10 | 
 |**Minor #2**   | 10 | 
-|**Major**      | 25 | 
+|**Major**      | 30 | 
 |**Total**      | 100| 
 
 ## Course Attendance
