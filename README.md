@@ -128,9 +128,9 @@ This course is not based on any particular textbook. However, the course materia
 |Component|Scores| 
 |:---|:-----:|
 |**Practicals** | 20 |
-|**Project**    | 30 |
-|**Minor #1**   | 10 | 
-|**Minor #2**   | 10 | 
+|**Project**    | 20 |
+|**Minor #1**   | 15 | 
+|**Minor #2**   | 15 | 
 |**Major**      | 30 | 
 |**Total**      | 100| 
 
