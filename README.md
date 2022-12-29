@@ -122,20 +122,23 @@ This course is not based on any particular textbook. However, the course materia
 * Christopher Bishop, *"Pattern Recognition and Machine Learning"*, Springer, 2006.
 * Andriy Burkov, *"The Hundred Page Machine Learning Book"*, 2019 [[free pdf](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)].
 *  Andreas Lindholm et. al., *"Machine Learning: A First Course for Engineers and Scientists"*, Cambridge University Press, 2022 [[free pdf](http://smlbook.org/book/sml-book-draft-latest.pdf)]
+* Brunton, Steven L., and J. Nathan Kutz. Data-driven science and engineering: Machine learning, dynamical systems, and control. Cambridge University Press, 2022.
 
 
 ## Grading  
 
 |Component|Scores| 
 |:---|:-----:|
-|**Practicals** | 20 |
+|**Practical exam** | 15 |
+|**Homework**  | 10 |
 |**Project**    | 20 |
-|**Minor #1**   | 15 | 
-|**Minor #2**   | 15 | 
-|**Major**      | 30 | 
+|**Minor #1**   | 12.5 | 
+|**Minor #2**   | 12.5 | 
+|**Major**      | 25 |
+|**Attendance** | 5 |
 |**Total**      | 100| 
 
-## Course Attendance
-Students are highly encouraged to attend all classes. They have to attend the classes and practicals to receive 10 point attendance scores. Class attendance will be taken **via Timble**. Attendance in practicals will be taken by TAs. Please mark yourself **IN and OUT** for each class. In case of unavoidable absence, such as illness, please send an appropriate email **within a week before/after absence** with email subject specifying the subject code APL 405. <br>
+## Attendance in Lectures and Practicals
+Students are highly encouraged to attend all classes. They have to attend the classes and practicals to receive a 5-point attendance score which includes both attendance for class as well as practicals. Class attendance will be taken **via Timble**. Attendance in practicals will be taken by TAs. Please mark yourself **IN and OUT** for each class. In case of unavoidable absence, such as illness, please send an appropriate email **within a week before/after absence** with email subject specifying the subject code APL 405. <br>
 
 **If lecture attendance is below 75%, one grade would be lowered.**
