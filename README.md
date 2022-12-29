@@ -132,11 +132,11 @@ This course is not based on any particular textbook. However, the course materia
 
 |Component|Scores| 
 |:---|:-----:|
-|**Practical exam** | 15 |
+|**Practical** | 10 |
 |**Homework**  | 10 |
 |**Project**    | 20 |
-|**Minor #1**   | 12.5 | 
-|**Minor #2**   | 12.5 | 
+|**Minor #1**   | 15 | 
+|**Minor #2**   | 15 | 
 |**Major**      | 25 |
 |**Attendance** | 5 |
 |**Total**      | 100| 
