@@ -132,17 +132,17 @@ This course is not based on any particular textbook. However, the course materia
 
 |Component|Scores| 
 |:---|:-----:|
-|**Practical** | 10 |
+|**Practical Exam** | 10 |
+|**Practical Attendance**| 5 |
 |**Homework**  | 10 |
 |**Project**    | 20 |
 |**Minor #1**   | 15 | 
 |**Minor #2**   | 15 | 
 |**Major**      | 25 |
-|**Attendance** | 5 |
 |**Total**      | 100| 
 
 - Students are highly encouraged to attend all classes, but there is no marks on lecture attendance. **You still have to mark your attendance on Timble. If lecture attendance is below 75%, one grade would be lowered.**
-- Practicals are to be completed and submitted by the end of the week they are given. 60% marks for each practical would be given at the end of the practical session and 40% marks would be given
+- There would a practical exam conducted towards the end of the semester.
 - Homeworks must be submitted within a week of posting. A penalty of 50% of the mark of the respective homework would be deducted if submitted after the deadline. Any submissions two days after the deadline would not be accepted. 
 
 ****
