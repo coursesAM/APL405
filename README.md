@@ -141,7 +141,8 @@ This course is not based on any particular textbook. However, the course materia
 |**Attendance** | 5 |
 |**Total**      | 100| 
 
-## Attendance in Lectures and Practicals
-Students are highly encouraged to attend all classes. They have to attend the classes and practicals to receive a 5-point attendance score which includes both attendance for class as well as practicals. Class attendance will be taken **via Timble**. Attendance in practicals will be taken by TAs. Please mark yourself **IN and OUT** for each class. In case of unavoidable absence, such as illness, please send an appropriate email **within a week before/after absence** with email subject specifying the subject code APL 405. <br>
+- Students are highly encouraged to attend all classes, but there is no marks on lecture attendance. **You still have to mark your attendance on Timble. If lecture attendance is below 75%, one grade would be lowered.**
+- Practicals are to be completed and submitted by the end of the week they are given. 60% marks for each practical would be given at the end of the practical session and 40% marks would be given
+- Homeworks must be submitted within a week of posting. A penalty of 50% of the mark of the respective homework would be deducted if submitted after the deadline. Any submissions two days after the deadline would not be accepted. 
 
-**If lecture attendance is below 75%, one grade would be lowered.**
+****
