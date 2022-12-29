@@ -14,23 +14,26 @@
 
 **Class timings:** Mon, Thu & Fri (11:00 to 11:50 AM) at LHC350 <br><br>
 
-**Practical Session:** Fri (3:15 to 5:00 PM) at LHC 606 <br> <br>
+**Practical Session:** Fri (3:15 to 5:15 PM) at two labs LH503 and LH504 <br> <br>
 
 **Office hours (TA)**: By email appointment <br> 
-**Office hours (Instructor)**: **Prof. Rajdip Nayek** (Thu 5-6pm) **Office** Block V-418D <br><br>
+**Office hours (Instructor)**: **Prof. Rajdip Nayek** (Thu 5-6pm) **Office** Block IV-B24 <br><br>
 
-**Intended audience:** BTech students in Applied Mechanics, Materials, and Mechanical Engineering disciplines.
+**Intended audience:** BTech students in Applied Mechanics, Materials, Mechanical and Civil Engineering disciplines.
 
 **NOTE**-For *all course related emails*, please put **APL405** in the subject line <br>
 
 ## Course Content
 This is an introductory course to statistical machine learning for students with some background in calculus, linear algebra and statistics. The course is focusing on supervised learning, i.e, classification and regression. The course will cover a range of methods used in machine learning and data science, including:
 - Linear regression
-- Classification via logistic regression and k nearest neighbour
-- Linear and quadratic discriminant analysis
+- Classification via logistic regression and k-nearest neighbour
+- Linear discriminant analysis
 - Regression and classification trees
 - Bagging and boosting
 - Neural networks and deep learning
+- Gaussian processes
+- Principal component analysis
+- k-means clustering
 
 These methods will be studied from various applications throughout the course. The course also covers important practical considerations such as cross-validation, model selection and the bias-variance trade-off. The course includes theory (e.g., derivations and proofs) as well as practice (notably the lab and the course project). The practical part will be implemented using Python.
 
