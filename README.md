@@ -141,7 +141,7 @@ This course is not based on any particular textbook. However, the course materia
 |**Major**      | 25 |
 |**Total**      | 100| 
 
-- Students are highly encouraged to attend all classes, but there is no marks on lecture attendance. **You still have to mark your attendance on Timble. If lecture attendance is below 75%, one grade would be lowered.**
+- Students are highly encouraged to attend all classes, but there is no marks on lecture attendance. **You still have to mark your attendance on Timble. If the combined lecture-plus-practical attendance is below 75% of the total, one grade would be lowered.**
 - There would a practical exam conducted towards the end of the semester.
 - Homeworks must be submitted within a week of posting. A penalty of 50% of the mark of the respective homework would be deducted if submitted after the deadline. Any submissions two days after the deadline would not be accepted. 
 
