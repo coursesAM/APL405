@@ -173,5 +173,5 @@ This course is not based on any particular textbook. However, the course materia
 - Final project report plus a link to a recorded video presentation must be submitted by Apr 27th (11:59 pm) (**(40% +25%) of total project marks**)
 - Any delay in submission of the above will be penalized by 1 mark per hour after the deadline has passed!! 
 
-The suggested structure for the report can be found [here](Project/readme.md)
+The suggested structure for the report can be found [here](Project/project.pdf)
 
