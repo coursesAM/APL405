@@ -46,7 +46,7 @@ These methods will be studied from various applications throughout the course. T
 * Polynomial regression
 * Bias-Variance decomposition
 * SVR and SVM 
-* Building blocks of a ML algorithm
+* Building blocks of an ML algorithm
 <!---
   * Principles of Parametric modelling
   * Loss function vs likelihood based models
