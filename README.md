@@ -17,7 +17,7 @@
 **Practical Session:** Fri (3:15 to 5:15 PM) at two labs LH503 and LH502 <br> <br>
 
 **Office hours (TA)**: By email appointment <br> 
-**Office hours (Instructor)**: **Prof. Rajdip Nayek** (Thu 5-6pm) **Office** Block IV-B24 <br><br>
+**Office hours (Instructor)**: By email appointment <br><br>
 
 **Intended audience:** BTech students in Applied Mechanics, Materials, Mechanical and Civil Engineering disciplines.<br>
 **Pre-requsiites:** MTL106/MTL108, COL106
