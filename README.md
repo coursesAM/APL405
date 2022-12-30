@@ -33,7 +33,7 @@
 - [Course References](#course-references)
 - [Grading](#grading)
 - [Project](#project)
-- 
+
 ## Course Content
 This is an introductory course to statistical machine learning for students with some background in calculus, linear algebra and statistics. The course is focusing on supervised learning, i.e, classification and regression. The course will cover a range of methods used in machine learning and data science, including:
 - Linear regression
