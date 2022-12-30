@@ -19,7 +19,7 @@
 **Office hours (TA)**: By email appointment <br> 
 **Office hours (Instructor)**: **Prof. Rajdip Nayek** (Thu 5-6pm) **Office** Block IV-B24 <br><br>
 
-**Intended audience:** BTech students in Applied Mechanics, Materials, Mechanical and Civil Engineering disciplines.
+**Intended audience:** BTech students in Applied Mechanics, Materials, Mechanical and Civil Engineering disciplines.<br>
 **Pre-requsiites:** MTL106/MTL108, COL106
 
 **NOTE**-For *all course related emails*, please put **APL405** in the subject line <br>
