@@ -178,4 +178,4 @@ Choose from any one of the catergory of projects you like. Each catergory has di
 - Final project report plus a link to a recorded video presentation must be submitted by Apr 27th (11:59 pm) (**(40% +25%) of total project marks**)
 - Any delay in submission of the above will be penalized by 1 mark per hour after the deadline has passed!! 
 
-Please follow this [link](Project/project.pdf) for more details of the project.
+Please follow this [link](Project/project.pdf) for more details on the project.
