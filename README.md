@@ -154,16 +154,16 @@ This course is not based on any particular textbook. However, the course materia
 - Homeworks must be submitted within a week of posting. A penalty of 50% of the mark of the respective homework would be deducted if submitted after the deadline. Any submissions two days after the deadline would not be accepted. 
 
 ## Project 
-* Option A (Literature survey) [**15 marks**]:
+* Option A (Literature survey) [**15/20 marks**]:
   * Pick a problem that interests you within the domain of civil and/or mechanical engineering
   * Search the literature for machine learning approaches to tackle this problem
   * Survey and discuss the relative strengths of each approach
 
-* Option B (Empirical evaluation) [**17.5 marks**]:
+* Option B (Empirical evaluation) [**17.5/20 marks**]:
   * Pick a problem that interests you within the domain of civil and/or mechanical engineering
   * Implement and experiment with several machine learning techniques to tackle this problem
   
-* Option C (Algorithm design) [**20 marks**]:
+* Option C (Algorithm design) [**20/20 marks**]:
   * Identify a problem within the domain of civil and/or mechanical engineering for which there are no satisfying approaches
   * Develop a new machine learning technique to tackle this problem
   * Analyze theoretically and/or empirically the performance of your technique
