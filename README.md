@@ -24,6 +24,16 @@
 
 **NOTE**-For *all course related emails*, please put **APL405** in the subject line <br>
 
+## Table of Contents
+- [Course Content](#course-content)
+- [Course Structure](#course-structure)
+- [Lecture Schedule](#lecture-schedule)
+- [Practical Scehdule](#practical-schedule)
+- [Homework Schedule](#homework-schedule)
+- [Course References](#course-references)
+- [Grading](#grading)
+- [Project](#project)
+- 
 ## Course Content
 This is an introductory course to statistical machine learning for students with some background in calculus, linear algebra and statistics. The course is focusing on supervised learning, i.e, classification and regression. The course will cover a range of methods used in machine learning and data science, including:
 - Linear regression
