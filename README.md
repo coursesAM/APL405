@@ -29,7 +29,7 @@
 - [Course Content](#course-content)
 - [Course Structure](#course-structure)
 - [Lecture Schedule](#lecture-schedule)
-- [Practical Scehdule](#practical-schedule)
+- [Practical Schedule](#practical-schedule)
 - [Homework Schedule](#homework-schedule)
 - [Course References](#course-references)
 - [Grading](#grading)
