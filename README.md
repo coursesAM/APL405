@@ -119,7 +119,7 @@ These methods will be studied from various applications throughout the course. T
 
 
 ## Homework Schedule
-A total of 4 homeworks would be given, and must be submitted within 2 weeks
+A total of 4 homeworks would be given, and must be submitted within 2 weeks of posting
 
 |HW# | Questions| 
 |:------:|:---------:|
@@ -156,6 +156,9 @@ This course is not based on any particular textbook. However, the course materia
 - Homeworks must be submitted within a week of posting. A penalty of 50% of the mark of the respective homework would be deducted if submitted after the deadline. Any submissions two days after the deadline would not be accepted. 
 
 ## Project 
+
+Choose from any one of the catergory of projects you like. Each catergory has different maximum attainable marks.
+
 * Option A (Literature survey) [**15/20 marks**]:
   * Pick a problem that interests you within the domain of civil and/or mechanical engineering
   * Search the literature for machine learning approaches to tackle this problem
@@ -175,5 +178,4 @@ This course is not based on any particular textbook. However, the course materia
 - Final project report plus a link to a recorded video presentation must be submitted by Apr 27th (11:59 pm) (**(40% +25%) of total project marks**)
 - Any delay in submission of the above will be penalized by 1 mark per hour after the deadline has passed!! 
 
-The suggested structure for the report can be found [here](Project/project.pdf)
-
+Please follow this [link](Project/project.pdf) for more details of the project.
