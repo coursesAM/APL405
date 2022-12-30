@@ -14,12 +14,13 @@
 
 **Class timings:** Mon, Thu & Fri (11:00 to 11:50 AM) at LHC350 <br><br>
 
-**Practical Session:** Fri (3:15 to 5:15 PM) at two labs LH503 and LH504 <br> <br>
+**Practical Session:** Fri (3:15 to 5:15 PM) at two labs LH503 and LH502 <br> <br>
 
 **Office hours (TA)**: By email appointment <br> 
 **Office hours (Instructor)**: **Prof. Rajdip Nayek** (Thu 5-6pm) **Office** Block IV-B24 <br><br>
 
 **Intended audience:** BTech students in Applied Mechanics, Materials, Mechanical and Civil Engineering disciplines.
+**Pre-requsiites:** MTL106/MTL108, COL106
 
 **NOTE**-For *all course related emails*, please put **APL405** in the subject line <br>
 
@@ -47,6 +48,7 @@ These methods will be studied from various applications throughout the course. T
 * SVR and SVM
 * Bias-Variance decomposition
 * Building blocks of a ML algorithm
+<!---
   * Principles of Parametric modelling
   * Loss function vs likelihood based models
   * Regularization
@@ -61,6 +63,7 @@ These methods will be studied from various applications throughout the course. T
       * Confusion matrix
       * Precision
       * Accuracy
+  --->
 * Bayesian Approach and Gaussian Process (3-4 lectures)
 * Neural Networks (4 lectures) [100 page ML book]
   * FNN
