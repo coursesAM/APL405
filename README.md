@@ -41,12 +41,11 @@ These methods will be studied from various applications throughout the course. T
 ## Course Structure
 * Introduction 
 * Supervised Learning 
-* k-NN 
-* Decision Trees 
+* k-NN and Decision Trees 
 * Linear Regression and Logistic regression 
 * Polynomial regression
-* SVR and SVM
 * Bias-Variance decomposition
+* SVR and SVM 
 * Building blocks of a ML algorithm
 <!---
   * Principles of Parametric modelling
@@ -64,20 +63,27 @@ These methods will be studied from various applications throughout the course. T
       * Precision
       * Accuracy
   --->
-* Bayesian Approach and Gaussian Process (3-4 lectures)
-* Neural Networks (4 lectures) [100 page ML book]
-  * FNN
+* Bayesian Approach and Gaussian Process (if time permits) 
+* Neural Networks (NN)
+<!---
+  * Feedforward NN
   * Training a neural network using back propagation
+--->
+
 * Ensemble algorithms
+<!---
   * Bagging
   * Boosting
   * Random Forest
-* Representation Learning and Dimensionality reduction
+--->
+* Unsupervised Learning (Representation Learning and Dimensionality Reduction)
+<!---
   * PCA
-  * kernel PCA
+  * Kernel PCA
   * ICA
   * k-means clustering
   * EM algorithm
+--->
 
 ## Lecture Schedule
 
