@@ -154,23 +154,23 @@ This course is not based on any particular textbook. However, the course materia
 - Homeworks must be submitted within a week of posting. A penalty of 50% of the mark of the respective homework would be deducted if submitted after the deadline. Any submissions two days after the deadline would not be accepted. 
 
 ## Project 
-* Option A (Literature survey):
+* Option A (Literature survey) [15 marks]:
   * Pick a problem that interests you within the domain of civil and/or mechanical engineering
   * Search the literature for machine learning approaches to tackle this problem
   * Survey and discuss the relative strengths of each approach
 
-* Option B (Empirical evaluation):
+* Option B (Empirical evaluation) [17.5 marks]:
   * Pick a problem that interests you within the domain of civil and/or mechanical engineering
   * Implement and experiment with several machine learning techniques to tackle this problem
   
-* Option C (Algorithm design):
+* Option C (Algorithm design) [20 marks]:
   * Identify a problem within the domain of civil and/or mechanical engineering for which there are no satisfying approaches
   * Develop a new machine learning technique to tackle this problem
   * Analyze theoretically and/or empirically the performance of your technique
 
-- Project proposal must be submitted by Feb 12th (11:59 pm) (*2 marks*)
-- Mid-semester project report must be submitted by Mar 26th (11:59 pm) (*5 marks*)
-- Final project report plus a link to a recorded video presentation must be submitted by Apr 27th (11:59 pm) (*8+5 marks*)
+- Project proposal must be submitted by Feb 12th (11:59 pm) (**10% of total project marks**)
+- Mid-semester project report must be submitted by Mar 26th (11:59 pm) (**25% of total project marks**)
+- Final project report plus a link to a recorded video presentation must be submitted by Apr 27th (11:59 pm) (**(40% +25%) of total project marks**)
 - Any delay in submission of the above will be penalized by 1 mark per hour after the deadline has passed!! 
 
 The suggested structure for the report can be found [here](Project/readme.md)
