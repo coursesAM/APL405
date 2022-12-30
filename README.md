@@ -169,5 +169,5 @@ This course is not based on any particular textbook. However, the course materia
   * Develop a new machine learning technique to tackle this problem
   * Analyze theoretically and/or empirically the performance of your technique
 
-The suggested structure for the report can be found [here](https://github.com/coursesAM/APL405/blob/main/Project/readme.md)
+The suggested structure for the report can be found [here](Project/readme.md)
 ****
