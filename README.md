@@ -97,9 +97,6 @@ These methods will be studied from various applications throughout the course. T
 
 
 
-
-
-
 ## Practical Schedule
 
 |Week# | Topics| Practical Questions| 
@@ -107,7 +104,6 @@ These methods will be studied from various applications throughout the course. T
 | Week 1 | Probability refresher | [Practical 1](Practicals/Practical_1.pdf) | 
 | Week 2 | k-Nearest Neighbours  | [Practical 2](Practicals/Practical_2.pdf) | 
 | Week 3 | Decision Trees        | [Practical 3](Practicals/Practical_3.pdf) | 
-
 
 
 
@@ -120,13 +116,7 @@ These methods will be studied from various applications throughout the course. T
 - [Quiz](#quiz)
 - [Policy for Cheating](#policy-for-cheating)
 
-## Course Outline
-This is the first course where deformation of solid bodies and the underlying concepts are introduced to undergraduate students. The course begins by building foundation of the concepts of stress and strain in three-dimensional deformable bodies. It further uses these concepts to study extension, torsion and bending of beams. The one-dimensional theory of beams are also introduced. Various theories of failure that are critical for design of machine elements in industry will also be discussed.
 
-## Course Layout
-- Mathematical preliminaries and notation; Concept of Traction vector; Concept of Stress tensor
-- Stress tensor and its representation in Cartesian coordinate system; Transformation of stress matrix; Equations of equilibrium; Symmetry of stress tensor
-- State of stress in simple cases; Principal stress components and principal planes; Maximizing shear component of traction; Mohr’s circle
 
 ## Course References
 This course is not based on any particular textbook. However, the course materials have been prepared using the following four references:
