@@ -106,6 +106,14 @@ These methods will be studied from various applications throughout the course. T
 | Week 3 | Decision Trees        | [Practical 3](Practicals/Practical_3.pdf) | 
 
 
+## Homework Schedule
+Homeworks would be given bi-weekly
+|HW# | Questions| 
+|:------:|:---------:|
+| HW1 |  [Homework 1](Homeworks/HW_1.pdf) | 
+| HW2 |  [Homework 2](Homeworks/HW_2.pdf) | 
+| HW3 |  [Homework 3](Homeworks/HW_3.pdf) | 
+
 
 ## Course References
 This course is not based on any particular textbook. However, the course materials have been prepared using the following four references:
