@@ -56,8 +56,8 @@ These methods will be studied from various applications throughout the course. T
 * k-NN and Decision Trees 
 * Linear Regression and Logistic regression 
 * Polynomial regression
+* Support vector machine (SVM) 
 * Bias-Variance decomposition
-* SVR and SVM 
 * Building blocks of an ML algorithm
 <!--
   * Principles of Parametric modelling
