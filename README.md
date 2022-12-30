@@ -113,6 +113,7 @@ Homeworks would be given bi-weekly
 | HW1 |  [Homework 1](Homeworks/HW_1.pdf) | 
 | HW2 |  [Homework 2](Homeworks/HW_2.pdf) | 
 | HW3 |  [Homework 3](Homeworks/HW_3.pdf) | 
+| HW4 |  [Homework 4](Homeworks/HW_4.pdf) | 
 
 
 ## Course References
