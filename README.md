@@ -3,7 +3,8 @@
 
 ## Course Info
 
-**Credit:** 3 units (2-0-2) <br> <br>
+**Credit:** 3 units (2-0-2) <br> 
+**Pre-requsiites:** MTL106/MTL108, COL106 <br><br>
 
 **Instructors:** [Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (rajdipn@am.iitd.ac.in) <br> <br>
 
@@ -20,7 +21,7 @@
 **Office hours (Instructor)**: By email appointment <br><br>
 
 **Intended audience:** BTech students in Applied Mechanics, Materials, Mechanical and Civil Engineering disciplines.<br>
-**Pre-requsiites:** MTL106/MTL108, COL106
+
 
 **NOTE**-For *all course related emails*, please put **APL405** in the subject line <br>
 
