@@ -5,7 +5,7 @@
 
 **Credit:** 3 units (2-0-2) <br> <br>
 
-**Instructors:** [Prof. Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (rajdipn@am.iitd.ac.in) <br> <br>
+**Instructors:** [Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (rajdipn@am.iitd.ac.in) <br> <br>
 
 **TA 1:** Tapas (amz198096@am.iitd.ac.in) <br> 
 **TA 2:** Navaneeth (amz208527@am.iitd.ac.in) <br>
