@@ -107,17 +107,6 @@ These methods will be studied from various applications throughout the course. T
 
 
 
-## Table of Contents
-- [Course Outline](#course-outline)
-- [Course Layout](#course-layout)
-- [Course References](#course-references)
-- [Grading](#grading)
-- [Course Attendance](#course-attendance)
-- [Quiz](#quiz)
-- [Policy for Cheating](#policy-for-cheating)
-
-
-
 ## Course References
 This course is not based on any particular textbook. However, the course materials have been prepared using the following four references:
 * Mathematics for Machine Learning [[free pdf](https://mml-book.github.io/book/mml-book.pdf)]
@@ -160,4 +149,4 @@ This course is not based on any particular textbook. However, the course materia
   * Analyze theoretically and/or empirically the performance of your technique
 
 The suggested structure for the report can be found [here](Project/readme.md)
-****
+
