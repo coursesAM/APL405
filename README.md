@@ -47,7 +47,7 @@ These methods will be studied from various applications throughout the course. T
 * Bias-Variance decomposition
 * SVR and SVM 
 * Building blocks of an ML algorithm
-<!---
+<!--
   * Principles of Parametric modelling
   * Loss function vs likelihood based models
   * Regularization
@@ -62,16 +62,16 @@ These methods will be studied from various applications throughout the course. T
       * Confusion matrix
       * Precision
       * Accuracy
-  --->
+  -->
 * Bayesian Approach and Gaussian Process (if time permits) 
 * Neural Networks (NN)
-<!---
+<!--
   * Feedforward NN
   * Training a neural network using back propagation
---->
+-->
 
 * Ensemble algorithms
-<!---
+<!--
   * Bagging
   * Boosting
   * Random Forest
@@ -83,7 +83,7 @@ These methods will be studied from various applications throughout the course. T
   * ICA
   * k-means clustering
   * EM algorithm
---->
+-->
 
 ## Lecture Schedule
 
