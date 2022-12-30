@@ -157,5 +157,10 @@ This course is not based on any particular textbook. However, the course materia
   * Develop a new machine learning technique to tackle this problem
   * Analyze theoretically and/or empirically the performance of your technique
 
+- Project proposal must be submitted by Feb 12th (11:59 pm) (*2 marks*)
+- Mid-semester project report must be submitted by Mar 26th (11:59 pm) (*5 marks*)
+- Final project report plus a link to a recorded video presentation must be submitted by Apr 27th (11:59 pm)** (8+5 marks)
+- Any delay in submission of the above will be penalized by 1 mark per hour after the deadline has passed!! 
+
 The suggested structure for the report can be found [here](Project/readme.md)
 
