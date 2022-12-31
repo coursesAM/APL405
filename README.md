@@ -77,21 +77,25 @@ These methods will be studied from various applications throughout the course. T
       * Accuracy
 -->
   
-* Bayesian Approach and Gaussian Process (if time permits) 
+* Bayesian Approach and Gaussian Process  
 * Neural Networks (NN)
+
 <!--
   * Feedforward NN
   * Training a neural network using back propagation
 -->
 
 * Ensemble algorithms
+
 <!--
   * Bagging
   * Boosting
   * Random Forest
---->
+-->
+
 * Unsupervised Learning (Representation Learning and Dimensionality Reduction)
-<!---
+
+<!--
   * PCA
   * Kernel PCA
   * ICA
