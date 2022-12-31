@@ -9,10 +9,10 @@
 
 **Instructors:** [Rajdip Nayek](https://sites.google.com/view/rajdip-nayek/) (rajdipn@am.iitd.ac.in) <br> <br>
 
-**TA 1:** Tapas (amz198096@am.iitd.ac.in) <br> 
+**TA 1:** Tapas (amz218313@am.iitd.ac.in) <br> 
 **TA 2:** Navaneeth (amz208527@am.iitd.ac.in) <br>
 **TA 3:** Tushar (amz218561@am.iitd.ac.in) <br>
-**TA 4:** Sahil (amz218561@am.iitd.ac.in) <br><br>
+**TA 4:** Sahil (amz228088@am.iitd.ac.in) <br><br>
 
 **Class timings:** Mon, Thu & Fri (11:00 to 11:50 AM) at LHC350 <br><br>
 
