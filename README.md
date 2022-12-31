@@ -59,6 +59,7 @@ These methods will be studied from various applications throughout the course. T
 * Support vector machine (SVM) 
 * Bias-Variance decomposition
 * Building blocks of an ML algorithm
+
 <!--
   * Principles of Parametric modelling
   * Loss function vs likelihood based models
@@ -75,6 +76,7 @@ These methods will be studied from various applications throughout the course. T
       * Precision
       * Accuracy
   -->
+  
 * Bayesian Approach and Gaussian Process (if time permits) 
 * Neural Networks (NN)
 <!--
