@@ -75,7 +75,7 @@ These methods will be studied from various applications throughout the course. T
       * Confusion matrix
       * Precision
       * Accuracy
-  -->
+-->
   
 * Bayesian Approach and Gaussian Process (if time permits) 
 * Neural Networks (NN)
