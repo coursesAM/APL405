@@ -14,7 +14,7 @@
 **TA 3:** Tushar (amz218561@am.iitd.ac.in) <br>
 **TA 4:** Sahil (amz228088@am.iitd.ac.in) <br><br>
 
-**Class timings:** Mon, Thu & Fri (11:00 to 11:50 AM) at LHC350 <br><br>
+**Class timings:** Mon, Thu & Fri (11:00 to 11:50 AM) at LHC517 <br><br>
 
 **Practical Session:** Fri (3:15 to 5:15 PM) at two labs LH503 and LH502 <br> <br>
 
@@ -162,6 +162,8 @@ This course is not based on any particular textbook. However, the course materia
 - Homeworks must be submitted within a week of posting. A penalty of 50% of the mark of the respective homework would be deducted if submitted after the deadline. Any submissions two days after the deadline would not be accepted. 
 
 ## Project 
+
+Maximum of *two students per project is allowed
 
 Choose from any one of the catergory of projects you like. Each catergory has different maximum attainable marks.
 
