@@ -163,7 +163,7 @@ This course is not based on any particular textbook. However, the course materia
 
 ## Project 
 
-Maximum of *two students per project* is allowed
+A maximum of *two students per project* is allowed
 
 Choose from any one of the catergory of projects you like. Each catergory has different maximum attainable marks.
 
