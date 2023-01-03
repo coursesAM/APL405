@@ -125,7 +125,7 @@ These methods will be studied from various applications throughout the course. T
 
 
 ## Homework Schedule
-A total of 4 homeworks would be given, and must be submitted within 2 weeks of posting
+A total of 4 homeworks would be given
 
 |HW# | Questions| 
 |:------:|:---------:|
@@ -159,7 +159,7 @@ This course is not based on any particular textbook. However, the course materia
 
 - Students are highly encouraged to attend all classes, but there is no marks on lecture attendance. **You still have to mark your attendance on Timble. If the combined lecture-plus-practical attendance is below 75% of the total, one grade would be lowered.**
 - There would a practical exam conducted towards the end of the semester.
-- Homeworks must be submitted within a week of posting. A penalty of 50% of the mark of the respective homework would be deducted if submitted after the deadline. Any submissions two days after the deadline would not be accepted. 
+- A penalty of 50% of the mark of the respective homework would be deducted if submitted after the deadline. Any submissions two days after the deadline would not be accepted. 
 
 ## Project 
 
