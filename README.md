@@ -107,7 +107,7 @@ These methods will be studied from various applications throughout the course. T
 
 |Module#| Main Topic | Sub Topics|Lecture Notes| 
 |:----------:|:----------------------------: |:------------------:|:-------------:|
-|Module 00| Introduction | | [Lecture 1](Lecture/Lecture1.pdf)  |
+|Module 00| Introduction | | [Lecture 1](Lectures/Lecture1.pdf)  |
 |Module 01| A Preliminary Approach <br> to Supervised Learning| Background <br> k-Nearest Neighbours <br> Decision Trees | [Lecture 2] <br> [Lecture 3] <br> [Lecture 4]| 
 |Module 02| Basic Parametric Models | Linear regression <br> Logistic Regression <br> Regularization | [Lecture 5] <br> [Lecture 6] <br> [Lecture 7]| 
 |Module 03| Evaluating Performance | Bias-variance decomposition | [Lecture 8] |
