@@ -19,7 +19,7 @@
 **Practical Session:** Fri (3:15 to 5:15 PM) at two labs LH503 and LH502 <br> <br>
 
 **Office hours (TA)**: By email appointment <br> 
-**Office hours (Instructor)**: By email appointment <br><br>
+**Office hours (Instructor)**: By email appointment (Room B24, Block 4) <br><br>
 
 **Intended audience:** BTech students in Applied Mechanics, Materials, Mechanical and Civil Engineering disciplines.<br>
 
@@ -119,7 +119,7 @@ These methods will be studied from various applications throughout the course. T
 
 |Week# | Topics| Practical Questions| 
 |:------:|:---------:|:--------:|
-| Week 1 | Probability refresher | [Practical 1](Practicals/Practical_1.pdf) | 
+| Week 1 | Probability refresher | [Practical 1](Practicals/Practical_11.pdf) | 
 | Week 2 | k-Nearest Neighbours  | [Practical 2](Practicals/Practical_2.pdf) | 
 | Week 3 | Decision Trees        | [Practical 3](Practicals/Practical_3.pdf) | 
 
