@@ -14,7 +14,7 @@
 **TA 3:** Tushar (amz218561@am.iitd.ac.in) <br>
 **TA 4:** Sahil (amz228088@am.iitd.ac.in) <br><br>
 
-**Class timings:** Mon, Thu & Fri (11:00 to 11:50 AM) at LHC517 <br><br>
+**Class timings:** Tue, Thu & Fri (11:00 to 11:50 AM) at LHC517 <br><br>
 
 **Practical Session:** Fri (3:15 to 5:15 PM) at two labs LH503 and LH502 <br> <br>
 
