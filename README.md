@@ -119,7 +119,7 @@ These methods will be studied from various applications throughout the course. T
 
 |Week# | Topics| Practical Questions| 
 |:------:|:---------:|:--------:|
-| Week 1 | Probability refresher | [Practical 1](Practicals/Practical_11.pdf) | 
+| Week 1 | Probability refresher | [Practical 1](Practicals/Practical_1.pdf) | 
 | Week 2 | k-Nearest Neighbours  | [Practical 2](Practicals/Practical_2.pdf) | 
 | Week 3 | Decision Trees        | [Practical 3](Practicals/Practical_3.pdf) | 
 
