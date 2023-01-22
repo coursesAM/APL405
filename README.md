@@ -129,12 +129,12 @@ These methods will be studied from various applications throughout the course. T
 ## Homework Schedule
 A total of 4 homeworks would be given
 
-|HW# | Questions| 
-|:------:|:---------:|
-| HW1 |  [Homework 1](Homeworks/HW_1.pdf) | 
-| HW2 |  [Homework 2](Homeworks/HW_2.pdf) | 
-| HW3 |  [Homework 3](Homeworks/HW_3.pdf) | 
-| HW4 |  [Homework 4](Homeworks/HW_4.pdf) | 
+|HW# | Questions| Dataset |
+|:------:|:---------:|:--------:|
+| HW1 |  [Homework 1](Homeworks/HW1.pdf) | [Datafiles](Homeworks/mnistData.mat) | 
+| HW2 |  [Homework 2](Homeworks/HW_2.pdf) | |
+| HW3 |  [Homework 3](Homeworks/HW_3.pdf) | |
+| HW4 |  [Homework 4](Homeworks/HW_4.pdf) | |
 
 
 ## Course References
