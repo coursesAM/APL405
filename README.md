@@ -112,8 +112,8 @@ These methods will be studied from various applications throughout the course. T
 |Module 00| Introduction | | [Lecture 1](Lectures/Lecture1.pdf)  |
 |Module 01| A Preliminary Approach <br> to Supervised Learning| Background <br> k-Nearest Neighbours <br> Decision Trees | [Lecture 2](Lectures/Lecture2.pdf) <br> [Lecture 3](Lectures/Lecture3.pdf) <br> [Lecture 4](Lectures/Lecture4.pdf)| 
 |Module 02| Basic Parametric Models | Linear regression <br> Logistic Regression <br> Regularization | [Lecture 5](Lectures/Lecture5.pdf) <br> [Lecture 6](Lectures/Lecture6.pdf) <br> [Lecture 7](Lectures/Lecture7.pdf)| 
-|Module 03| Evaluating Performance | Cross-validation <br> Bias-variance decomposition | [Lecture 8](Lectures/Lecture8.pdf) <br> [Lecture 9] |
-|Module 04| Learning Parametric Models | Loss functions and likelihood-based models <br> Parameter Optimization | [Lecture 10] <br> [Lecture 11] 
+|Module 03| Evaluating Performance | Cross-validation <br> Training error-generalization gap <br> Bias-variance decomposition | [Lecture 8](Lectures/Lecture8.pdf) <br> [Lecture 9](Lectures/Lecture9.pdf) <br> [Lecture 10](Lectures/Lecture10.pdf)|
+|Module 04| Learning Parametric Models | Loss functions and likelihood-based models <br> Parameter Optimization | [Lecture 11] <br> [Lecture 12] 
 
 
 
