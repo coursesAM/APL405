@@ -139,7 +139,7 @@ A total of 4 homeworks would be given
 
 
 ## Course References
-This course is not based on any particular textbook. However, the course materials have been prepared using the following four references:
+
 * Christopher Bishop, *"Pattern Recognition and Machine Learning"*, Springer, 2006.
 * Andriy Burkov, *"The Hundred Page Machine Learning Book"*, 2019 [[free pdf](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)].
 *  Andreas Lindholm et. al., *"Machine Learning: A First Course for Engineers and Scientists"*, Cambridge University Press, 2022 [[free pdf](http://smlbook.org/book/sml-book-draft-latest.pdf)]
