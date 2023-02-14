@@ -164,6 +164,15 @@ A total of 4 homeworks would be given
 - There would be a practical exam conducted towards the end of the semester.
 - A penalty of 50% of the mark of the respective homework would be deducted if submitted after the deadline. Any submissions two days after the deadline would not be accepted. 
 
+## Exams
+
+|Component| Solution |
+|:-----:|:-----:|
+|**Minor #1**   | [Solution](Exams/Minor1_soln.pdf) | 
+|**Minor #2**   | [Solution](Exams/Minor2_soln.pdf) | 
+|**Major**      | [Solution](Exams/Major_soln.pdf) | 
+
+
 ## Project 
 
 A maximum of *two students per project* is allowed
