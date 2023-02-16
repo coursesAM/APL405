@@ -119,15 +119,14 @@ These methods will be studied from various applications throughout the course. T
 
 ## Practical Schedule
 
-|Week# | Topics| Practical Questions | Notes | Solution | 
-|:------:|:---------:|:--------:|:-------:|:-------:|
-| Week 1 | Probability refresher | [Practical 1](Practicals/Practical_1.pdf) | [Notes](Practicals/Probability_refresher_updated.pdf) | |
-| Week 2 | k-Nearest Neighbours  | [Practical 2](Practicals/Practical_2.pdf) | | |
-| Week 3 | Decision Trees        | [Practical 3](https://colab.research.google.com/drive/15wcB0EsaIQz5N39lSCgD4yBR4KTnUQ9t?usp=sharing) | [Dataset](Practicals/Datasets/spring_stiffness_classify.h5) | |
-| Week 4 | Linear Regression     | [Practical 4](https://colab.research.google.com/drive/1SSpo6U-yALWmJlRnk787ntphnCLNJdcz?usp=sharing) | | [Solution](https://colab.research.google.com/drive/10Ifcd8RcZe8WmwHpqk2VpbI7fqcCkwGH)|
-| Week 5 | Logistic Regression   | [Practical 5](https://colab.research.google.com/drive/15vqeGXY1MfRkASo8jCMvbBeGkMmU7GRA?usp=sharing) | [Dataset](Practicals/Datasets/cancer.csv) | [Solution](https://colab.research.google.com/drive/1YqL9IrqY1b0vCrCLPMiGbfohuRlM69bH?usp=sharing)|
-| Week 6 | Cross-validation & Bias-variance trade-off  | [Practical 6] | [Dataset](Practicals/Datasets/cancer.csv) | |
-
+|Week# | Topics| Practical Questions | Notes | 
+|:------:|:---------:|:--------:|:-------:|
+| Week 1 | Probability refresher | [Practical 1](Practicals/Practical_1.pdf) | [Notes](Practicals/Probability_refresher_updated.pdf) |
+| Week 2 | k-Nearest Neighbours  | [Practical 2](Practicals/Practical_2.pdf) | |
+| Week 3 | Decision Trees        | [Practical 3](https://colab.research.google.com/drive/15wcB0EsaIQz5N39lSCgD4yBR4KTnUQ9t?usp=sharing) | [Dataset](Practicals/Datasets/spring_stiffness_classify.h5) | 
+| Week 4 | Linear Regression     | [Practical 4](https://colab.research.google.com/drive/1SSpo6U-yALWmJlRnk787ntphnCLNJdcz?usp=sharing) | |
+| Week 5 | Logistic Regression   | [Practical 5](https://colab.research.google.com/drive/15vqeGXY1MfRkASo8jCMvbBeGkMmU7GRA?usp=sharing) | [Dataset](Practicals/Datasets/cancer.csv) | 
+| Week 6 | Cross-validation & Bias-variance trade-off  | [Practical 6] | [Dataset](Practicals/Datasets/cancer.csv) | 
 
 ## Homework Schedule
 A total of 4 homeworks would be given
