@@ -46,7 +46,6 @@ This is an introductory course to statistical machine learning for students with
 - Regression and classification trees
 - Bagging and boosting
 - Neural networks and deep learning
-- Gaussian processes
 - Principal component analysis
 - k-means clustering
 
@@ -60,33 +59,12 @@ These methods will be studied from various applications throughout the course. T
 * Polynomial regression
 * Support vector machine (SVM) 
 * Bias-Variance decomposition
-* Building blocks of an ML algorithm
-
-<!--
-  * Principles of Parametric modelling
-  * Loss function vs likelihood based models
-  * Regularization
-  * Parameter optimization
-  * Hyperparameter optimization
-  * Practical aspects
-    * One-hot encoding
-    * Binning
-    * Input normalization
-    * Three sets: Train, test, validation
-    * Model performance assessment: 
-      * Confusion matrix
-      * Precision
-      * Accuracy
--->
-  
-* Bayesian Approach and Gaussian Process  
+* Loss function vs likelihood based models
+* Regularization
+* Parameter optimization
+* Three sets: Train, test, validation
+* Model performance assessment
 * Neural Networks (NN)
-
-<!--
-  * Feedforward NN
-  * Training a neural network using back propagation
--->
-
 * Ensemble algorithms
 
 <!--
