@@ -106,6 +106,7 @@ These methods will be studied from various applications throughout the course. T
 | Week 4 | Linear Regression     | [Practical 4](https://colab.research.google.com/drive/1SSpo6U-yALWmJlRnk787ntphnCLNJdcz?usp=sharing) | |
 | Week 5 | Logistic Regression   | [Practical 5](https://colab.research.google.com/drive/15vqeGXY1MfRkASo8jCMvbBeGkMmU7GRA?usp=sharing) | [Dataset](Practicals/Datasets/cancer.csv) | 
 | Week 6 | Cross-validation & Bias-variance trade-off  | [Practical 6](https://colab.research.google.com/drive/13aViGO7WHNP6wzBKWtzNJI4iQwmoXZ9F?usp=sharing) | [Dataset](Practicals/Datasets/cancer.csv) | 
+| Week 7 | Introduction to PyTorch for Neural Nets | [Practical 7](https://colab.research.google.com/drive/1POGb8tZGDawVLZTfoPUitchtVpxvFwgg?usp=sharing)| | 
 
 ## Homework Schedule
 A total of 4 homeworks would be given
