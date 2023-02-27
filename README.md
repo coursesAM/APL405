@@ -133,7 +133,7 @@ A total of 4 homeworks would be given
 |Component|Scores| 
 |:---|:-----:|
 |**Practical Exam** | 10 |
-|**Practical Attendance**| 5 |
+|**Class Attendance**| 5 |
 |**Homework**   | 10 |
 |**Project**    | 20 |
 |**Minor #1**   | 15 | 
