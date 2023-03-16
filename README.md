@@ -93,7 +93,7 @@ These methods will be studied from various applications throughout the course. T
 |Module 03| Evaluating Performance | Cross-validation <br> Training error-generalization gap <br> Bias-variance decomposition | [Lecture 8](Lectures/Lecture8.pdf) <br> [Lecture 9](Lectures/Lecture9.pdf) <br> [Lecture 10](Lectures/Lecture10.pdf)|
 |Module 04| Learning Parametric Models | Loss functions <br> Parameter Optimization | [Lecture 11a](Lectures/Lecture11.pdf) &nbsp; [Lecture 11b](Lectures/Lecture11_2.pdf) <br>  [Lecture 12](Lectures/Lecture12.pdf)
 |Module 05| Neural Networks | Feedforward neural network <br> Backpropagation <br> Convolutional Neural Network | [Lecture 13](Lectures/Lecture13.pdf) <br>  [Lecture 14](Lectures/Lecture14.pdf) <br>  [Lecture 15](Lectures/Lecture15.pdf)
-|Module 06| Kernel Methods | Kernel Ridge Regression and Support Vector regression <br> Theory of kernels <br> Support Vector Classification | [Lecture 16](Lectures/Lecture16.pdf)  <br>  [Lecture 18](Lectures/Lecture18.pdf) <br>  [Lecture 19](Lectures/Lecture19.pdf)
+|Module 06| Kernel Methods | Kernel Ridge Regression and Support Vector regression <br> Theory of kernels <br> Support Vector Classification | [Lecture 16](Lectures/Lecture16.pdf)  <br>  [Lecture 17](Lectures/Lecture17.pdf) <br>  [Lecture 18](Lectures/Lecture18.pdf)
 
 
 
