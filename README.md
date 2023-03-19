@@ -86,7 +86,7 @@ These methods will be studied from various applications throughout the course. T
 ## Lecture Schedule
 
 |Module#| Main Topic | Sub Topics|Lecture Notes| 
-|:----------:|:----------------------------:|:------------------:|:-------------:|
+|:----------:|:------------------------------:|:------------------:|:-----------------:|
 |Module 00| Introduction | | [Lecture 1](Lectures/Lecture1.pdf)  |
 |Module 01| A Preliminary Approach <br> to Supervised Learning| Background <br> k-Nearest Neighbours <br> Decision Trees | [Lecture 2](Lectures/Lecture2.pdf) <br> [Lecture 3](Lectures/Lecture3.pdf) <br> [Lecture 4](Lectures/Lecture4.pdf)| 
 |Module 02| Basic Parametric Models | Linear regression <br> Logistic Regression <br> Regularization | [Lecture 5](Lectures/Lecture5.pdf) <br> [Lecture 6](Lectures/Lecture6.pdf) <br> [Lecture 7](Lectures/Lecture7.pdf)| 
