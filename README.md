@@ -115,7 +115,7 @@ A total of 4 homeworks would be given
 |HW# | Questions| Dataset | Solutions |
 |:------:|:---------:|:--------:|:---------:|
 | HW1 |  [Homework 1](Homeworks/HW1.pdf) | [Datafiles](Homeworks/mnistData.mat) | [Solution](Homeworks/HW1sol.pdf)|
-| HW2 |  [Homework 2](Homeworks/HW2.pdf) | | |
+| HW2 |  [Homework 2](Homeworks/HW2.pdf) | | [Solution](Homeworks/HW2sol.pdf)|
 | HW3 |  [Homework 3](Homeworks/HW3.pdf) | | |
 | HW4 |  [Homework 4](Homeworks/HW4.pdf) | | |
 
