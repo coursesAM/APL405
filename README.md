@@ -175,7 +175,7 @@ Choose from any one of the catergory of projects you like. Each catergory has di
   * Analyze theoretically and/or empirically the performance of your technique
 
 - Project proposal must be submitted by Feb 12th (11:59 pm) (**10% of total project marks**)
-- Mid-semester project report must be submitted by Apr 2nd (11:59 pm) (**25% of total project marks**)
+- Mid-semester project report must be submitted by Apr 9th (11:59 pm) (**25% of total project marks**)
 - Final project report plus a link to a recorded video presentation must be submitted by Apr 27th (11:59 pm) (**(40% +25%) of total project marks**)
 - Any delay in submission of the above will be penalized by 1 mark per hour after the deadline has passed!! 
 
