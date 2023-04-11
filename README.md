@@ -56,13 +56,13 @@ These methods will be studied from various applications throughout the course. T
 * k-NN and Decision Trees 
 * Linear Regression and Logistic regression 
 * Polynomial regression
-* Support vector machine (SVM) 
 * Bias-Variance decomposition
 * Loss function vs likelihood based models
 * Regularization
 * Parameter optimization
 * Three sets: Train, test, validation
 * Neural Networks (NN)
+* Support vector machine (SVM) 
 * Ensemble algorithms
 * Unsupervised Learning (Representation Learning and Dimensionality Reduction)
 
