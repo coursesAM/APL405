@@ -42,7 +42,6 @@
 This is an introductory course to statistical machine learning for students with some background in calculus, linear algebra and statistics. The course is focusing on supervised learning, i.e, classification and regression. The course will cover a range of methods used in machine learning and data science, including:
 - Linear regression
 - Classification via logistic regression and k-nearest neighbour
-- Linear discriminant analysis
 - Regression and classification trees
 - Bagging and boosting
 - Neural networks and deep learning
@@ -63,16 +62,8 @@ These methods will be studied from various applications throughout the course. T
 * Regularization
 * Parameter optimization
 * Three sets: Train, test, validation
-* Model performance assessment
 * Neural Networks (NN)
 * Ensemble algorithms
-
-<!--
-  * Bagging
-  * Boosting
-  * Random Forest
--->
-
 * Unsupervised Learning (Representation Learning and Dimensionality Reduction)
 
 <!--
