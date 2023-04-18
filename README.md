@@ -86,6 +86,7 @@ These methods will be studied from various applications throughout the course. T
 |Module 05| Neural Networks | Feedforward neural network <br> Backpropagation <br> Convolutional Neural Network | [Lecture 13](Lectures/Lecture13.pdf) <br>  [Lecture 14](Lectures/Lecture14.pdf) <br>  [Lecture 15](Lectures/Lecture15.pdf)
 |Module 06| Kernel Methods | Kernel Ridge Regression and SVR <br> Theory of kernels <br> Support Vector Classification | [Lecture 16](Lectures/Lecture16.pdf)  <br>  [Lecture 17](Lectures/Lecture17.pdf) <br>  [Lecture 18](Lectures/Lecture18.pdf)
 |Module 07| Ensemble Methods | Bagging <br> Random Forests <br> Boosting | [Lecture 19](Lectures/Lecture19.pdf)  <br>  [Lecture 20](Lectures/Lecture20.pdf) <br>  [Lecture 21](Lectures/Lecture21.pdf)
+|Module 09| Generative Models & <br> Unsupervised Learning  | Gaussian mixture models <br> k-means clustering <br> PCA | [Lecture 22](Lectures/Lecture22.pdf)  <br>  [Lecture 23](Lectures/Lecture23.pdf) <br>  [Lecture 24](Lectures/Lecture24.pdf)
 
 
 
