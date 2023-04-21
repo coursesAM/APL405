@@ -97,7 +97,7 @@ These methods will be studied from various applications throughout the course. T
 | Week 6 | Cross-validation & Bias-variance trade-off  | [Practical 6](https://colab.research.google.com/drive/13aViGO7WHNP6wzBKWtzNJI4iQwmoXZ9F?usp=sharing) | [Dataset](Practicals/Datasets/cancer.csv) | 
 | Week 7 | Introduction to PyTorch for Neural Nets | [Practical 7](https://colab.research.google.com/drive/1POGb8tZGDawVLZTfoPUitchtVpxvFwgg?usp=sharing)| | 
 | Week 8 | Support Vector Machine | [Practical 8](https://colab.research.google.com/drive/18-t0OXCsH0E2sCtgvEqDmizuGAy5yuZY?usp=sharing)| | 
-| Week 9 | Boosting | [Practical 9](https://colab.research.google.com/drive/18-t0OXCsH0E2sCtgvEqDmizuGAy5yuZY?usp=sharing)| [Dataset](Practicals/Datasets/damage.csv)| 
+| Week 9 | Boosting | [Practical 9](https://colab.research.google.com/drive/1T5FhhRLGqVsdAbnVY3R16hYN8qSJkbm2?usp=sharing)| [Dataset](Practicals/Datasets/damage.csv)| 
 
 
 
