@@ -108,7 +108,7 @@ A total of three homeworks would be given
 |:------:|:---------:|:--------:|:---------:|
 | HW1 |  [Homework 1](Homeworks/HW1.pdf) | [Datafiles](Homeworks/mnistData.mat) | [Solution](Homeworks/HW1sol.pdf)|
 | HW2 |  [Homework 2](Homeworks/HW2.pdf) | | [Solution](Homeworks/HW2sol.pdf)|
-| HW3 |  [Homework 3](Homeworks/HW3.pdf) | [Datafiles](https://drive.google.com/file/d/1a8ZTb2gswnOnEw_IJMuUWsqoUgMgxwte/view?usp=sharing)| |
+| HW3 |  [Homework 3](Homeworks/HW3.pdf) | [Datafiles](https://drive.google.com/file/d/1a8ZTb2gswnOnEw_IJMuUWsqoUgMgxwte/view?usp=sharing) <br> [Template](https://colab.research.google.com/drive/1tuCsaljFLtdzr6AxNK83e6-alNj4wdJP?usp=sharing)| |
 
 
 ## Course References
