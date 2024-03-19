@@ -132,9 +132,8 @@ A total of three homeworks would be given
 |**Major**      | 25 |
 |**Total**      | 100| 
 
-- Students are highly encouraged to attend all classes, but there is no marks on lecture attendance. **You still have to mark your attendance on Timble. If the combined lecture-plus-practical attendance is below 75% of the total, one grade would be lowered.**
-- There would be a practical exam conducted towards the end of the semester.
-- A penalty of 50% of the mark of the respective homework would be deducted if submitted after the deadline. Any submissions two days after the deadline would not be accepted. 
+- Students are highly encouraged to attend all classes, but there are no marks on lecture attendance. **You still have to mark your attendance on Timble. If the combined lecture-plus-practical attendance is below 75% of the total, one grade will be lowered.**
+- A penalty of 50% of the mark of the respective homework would be deducted if submitted after the deadline. Any submissions two days after the deadline will not be accepted. 
 
 ## Exams
 
@@ -149,23 +148,7 @@ A total of three homeworks would be given
 
 A maximum of *two students per project* is allowed
 
-Choose from any one of the catergory of projects you like. Each catergory has different maximum attainable marks.
-
-* Option A (Literature survey) [**15/20 marks**]:
-  * Pick a problem that interests you within the domain of civil and/or mechanical engineering
-  * Search the literature for machine learning approaches to tackle this problem
-  * Survey and discuss the relative strengths of each approach
-
-* Option B (Empirical evaluation) [**17.5/20 marks**]:
-  * Pick a problem that interests you within the domain of civil and/or mechanical engineering
-  * Implement and experiment with several machine learning techniques to tackle this problem
-  
-* Option C (Algorithm design) [**20/20 marks**]:
-  * Identify a problem within the domain of civil and/or mechanical engineering for which there are no satisfying approaches
-  * Develop a new machine learning technique to tackle this problem
-  * Analyze theoretically and/or empirically the performance of your technique
-
-- Project proposal must be submitted by Feb 12th (11:59 pm) (**10% of total project marks**)
+ Project proposal must be submitted by Feb 12th (11:59 pm) (**10% of total project marks**)
 - Mid-semester project report must be submitted by Apr 9th (11:59 pm) (**25% of total project marks**)
 - Final project report plus a link to a recorded video presentation must be submitted by Apr 27th (11:59 pm) (**(30% +35%) of total project marks**)
 - Any delay in submission of the above will be penalized by 1 mark per hour after the deadline has passed!! 
